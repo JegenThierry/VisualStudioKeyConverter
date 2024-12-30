@@ -1,0 +1,15 @@
+{
+  "name": "xmltotxt",
+  "version": "1.0.0",
+  "description": "Converts XML exports of myvisualstudio.com to a simplified .txt file",
+  "license": "ISC",
+  "author": "Thierry Jegen",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  }
+}
